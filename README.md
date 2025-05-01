@@ -1,8 +1,8 @@
-# 🌏 Discover Travelgram
+# 🌏 Travelgram
 
 Travelgram is a simple web application that allows users to share and explore travel photos from around the world. This project was developed using only **HTML** and **CSS**, focusing on building a visually appealing.
 
-🔗 **[Live Preview](https://github.com/eugeniobarros/travelgram)**
+🔗 **[Live Preview](https://eugeniobarrosjr.github.io/travelgram/)**
 
 ## 📸 Preview
 
