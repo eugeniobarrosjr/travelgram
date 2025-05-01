@@ -12,11 +12,17 @@ header .container {
 #profile {
   display: flex;
   gap: 32px;
-  align-items: center;
 }
 
 #profile > div {
   max-width: 384px;
+}
+
+#profile img {
+  width: 176px;
+  height: 176px;
+  object-fit: cover;
+  border-radius: 50%;
 }
 
 #profile h1 {
